@@ -1,0 +1,12 @@
+READ ME FILE:
+
+Data Set can be found in the following link:
+https://www.kaggle.com/danielgrijalvas/movies
+
+The data set contains information of 6000+ movies released bewteen 1986 and 2016 (budget, gross revenue, year, name, production company)
+
+The goal in the project is to bring some insights about what makes a successful movie.
+
+Therefore, I will create a correlation matrix which will show correlation coefficients between varialbes such as gross revenue and budget, gross revenue and genre etc. 
+
+I will also do a regression analysis and graph scatter plots to show the relationship between the different variables in the data set, using matplotlib and pandas.
